@@ -1,0 +1,9 @@
+{
+  "name": "Copia of Copia of Copia of JURUBEBAA",
+  "description": "A plataforma definitiva para gestão de Ordens de Serviço, impulsionada por IA Cognitiva para excelência operacional.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
